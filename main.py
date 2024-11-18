@@ -1,7 +1,7 @@
 from Netscanner import NetworkScanner # Import networkScanner class from scanner.py 
 from Netmonitor import Netmonitor     # Importning Netmonitor
 import time 
-from colorama import init, Fore, Back, Style # type: ignore
+
 
 
 def banner():
