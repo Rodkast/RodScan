@@ -6,7 +6,7 @@ from colorama import init, Fore, Back, Style # type: ignore
 
 def banner():
     banner = """
-        *******************************************************
+        _______________________________________________________
         |_____________________________________________________|
         |            ~   Welcome to RodScan                   |
         |                                                     |
@@ -14,7 +14,7 @@ def banner():
         |_____________________________________________________|
         |                                                     | 
         |                                      [version: 1.0] |
-        *******************************************************
+        |_____________________________________________________|
         <If you want to scan for connected devices, use an ip range>
         <For Network monitorting your internet adapter (e.g eth0,wlan)>
 """
